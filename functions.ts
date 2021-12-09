@@ -40,7 +40,9 @@ function renderGame(state: typeState) {
 
   if(state === '') {
     return renderBalls()
-  } else if(state === 'WINNER') {
+  }
+
+  if(state === 'WINNER') {
     return renderWinner()
   }
   return renderGameOver()

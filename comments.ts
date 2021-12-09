@@ -81,11 +81,11 @@ if(allWinnersChmapionsId.includes(playerId))
 
 
 // bad coments --- never used git my friend ??????
-// históry of code
-// 20-02-2021 = Adicionado o módulo de pagamentos
-// 15-05-2021 = Corrigido o bug ao develver produtos
-// 15-05-2021 = Refatoração no código
+// story of code
+// 20-02-2021 = Added new payment method
+// 15-05-2021 = Adjust bug ...
+// 15-05-2021 = Refactoring of ....
 
 
-// good pratices.. Coments are bad, aways... 
+// good pratices.. Coments are bad!
 // use for highlight importance and TODO.
